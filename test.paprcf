@@ -1,0 +1,8 @@
+[Shell]
+prompt = paprsh<
+
+[Aliases]
+lop = ls -l
+
+[Environment]
+PATH = /data/data/com.termux/files/usr/bin:/data/data/com.termux/files/usr/bin/applets
